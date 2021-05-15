@@ -16,7 +16,7 @@ https://github.com/EEzycade/challenge-05-schedule-app
 
 ## Screenshot
 
-<img src="./images/challenge-5-screenshot.png"/>
+<img src="./assets/images/challenge-5-screenshot.png"/>
 
 ## Contributions
 Made by Cade Ellsworth, 2021
